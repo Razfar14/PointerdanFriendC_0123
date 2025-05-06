@@ -20,6 +20,7 @@ void manusia ::showNilaiPelajara(pelajar &x){
     cout << x.nilai;
 }
 
+
 int main(){
     manusia budi;
     pelajar pbudi;
